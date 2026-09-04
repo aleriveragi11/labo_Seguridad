@@ -1,0 +1,4 @@
+Contesta lo siguiente:
+¿Cuál es el punto más débil de PGP? Son sus claves debiles, el facil robo de la clave privada y su expociscion de metadatos. 
+¿Cuándo es conveniente utilizar solamente cifrado simétrico? Cuando tus pripridades son la velocidad y el control absoluto ya que ocupa la misma clave para todo. 
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etaptapa por etapa)? planning, design, development, testing y release
